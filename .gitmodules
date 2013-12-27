@@ -1,0 +1,6 @@
+[submodule "oc"]
+	path = oc
+	url = https://github.com/CityofBarberton/CityofBarberton.com.git
+[submodule "clerkofcourts"]
+	path = clerkofcourts
+	url = https://github.com/CityofBarberton/ClerkofCourt.git
